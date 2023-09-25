@@ -17,14 +17,20 @@
 
 ## Using the Library:
 
-- Importing the utility functions:
+- Importing all the utility functions into one object:
 
 ```
-const utilities = require("dynamic-js-utilities");
+const utilities = require("@nfzvenyika/dynamic-js-utilities");
 ```
 
 ```
-import utilities from "dynamic-js-utilities";
+import utilities from "@nfzvenyika/dynamic-js-utilities";
+```
+
+- Importing each function by name as needed:
+
+```
+import { setDropdownMenus } from "@nfzvenyika/dynamic-js-utilities";
 ```
 
 - The structure of the utilities object:
