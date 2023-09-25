@@ -1,0 +1,30 @@
+{
+  "name": "dynamic-js-utilites",
+  "version": "1.0.0",
+  "description": "Reusable javascript code that enables a user to create the following dynamic utilities: Drop down menu's, Mobile menus's and Image carousels.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "eslint-config-prettier"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ngonidzashe-Zvenyika/dynamic-js-utilites.git"
+  },
+  "keywords": [
+    "dynamic",
+    "javascript",
+    "utilities"
+  ],
+  "author": "Ngonidzashe Zvenyika <nfzvenyika@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ngonidzashe-Zvenyika/dynamic-js-utilites/issues"
+  },
+  "homepage": "https://github.com/Ngonidzashe-Zvenyika/dynamic-js-utilites#readme",
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "eslint-config-prettier": "^9.0.0",
+    "prettier": "3.0.3"
+  }
+}
