@@ -27,10 +27,10 @@ const utilities = require("dynamic-js-utilities");
 
 ```
 {
-  setDropdownMenus: { setDropdownMenus: [Function: setDropdownMenus] },
-  setHamburgerMenus: { setHamburgerMenus: [Function: setHamburgerMenus] },
-  setCarouselsOpacity: { setCarouselsOpacity: [Function: setCarouselsOpacity] },
-  setCarouselsTransform: { setCarouselsTransform: [Function: setCarouselsTransform] }
+  setDropdownMenus: [Function: setDropdownMenus],
+  setHamburgerMenus: [Function: setHamburgerMenus],
+  setCarouselsOpacity: [Function: setCarouselsOpacity],
+  setCarouselsTransform: [Function: setCarouselsTransform]
 }
 ```
 

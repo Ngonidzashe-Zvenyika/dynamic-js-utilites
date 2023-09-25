@@ -43,4 +43,4 @@ function setDropdownMenus() {
   });
 }
 
-exports.setDropdownMenus = setDropdownMenus;
+module.exports = setDropdownMenus;

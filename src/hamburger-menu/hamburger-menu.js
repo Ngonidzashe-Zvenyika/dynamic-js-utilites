@@ -24,4 +24,4 @@ function setHamburgerMenus() {
   });
 }
 
-exports.setHamburgerMenus = setHamburgerMenus;
+module.exports = setHamburgerMenus;

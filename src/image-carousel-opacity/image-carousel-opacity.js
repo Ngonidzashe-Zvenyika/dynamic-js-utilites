@@ -91,4 +91,4 @@ function shiftToNext(imageArray, carousel) {
   shiftToTarget(carousel, currentImage, nextImage, nextIndex);
 }
 
-exports.setCarouselsOpacity = setCarouselsOpacity;
+module.exports = setCarouselsOpacity;

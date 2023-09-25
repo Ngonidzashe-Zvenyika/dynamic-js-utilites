@@ -108,4 +108,4 @@ function shiftToNext(imageArray, carousel, track) {
   shiftToTarget(carousel, track, currentImage, nextImage, nextIndex);
 }
 
-exports.setCarouselsTransform = setCarouselsTransform;
+module.exports = setCarouselsTransform;
