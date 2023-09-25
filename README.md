@@ -15,6 +15,25 @@
 6. ESLint
 7. Prettier
 
+## Using the Library:
+
+- Importing the utility functions:
+
+```
+const utilities = require("dynamic-js-utilities");
+```
+
+- The structure of the utilities object:
+
+```
+{
+  setDropdownMenus: { setDropdownMenus: [Function: setDropdownMenus] },
+  setHamburgerMenus: { setHamburgerMenus: [Function: setHamburgerMenus] },
+  setCarouselsOpacity: { setCarouselsOpacity: [Function: setCarouselsOpacity] },
+  setCarouselsTransform: { setCarouselsTransform: [Function: setCarouselsTransform] }
+}
+```
+
 ## HTML and CSS Examples
 
 ### Dropdown Menu:
