@@ -40,6 +40,12 @@ import utilities from "dynamic-js-utilities";
 
 ## HTML and CSS Examples
 
+```
+* {
+box-sizing: border-box;
+}
+```
+
 ### Dropdown Menu:
 
 ```
