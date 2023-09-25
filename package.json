@@ -1,6 +1,6 @@
 {
   "name": "@nfzvenyika/dynamic-js-utilities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reusable javascript code that enables a user to create the following dynamic utilities: Drop down menu's, Mobile menus's and Image carousels.",
   "main": "index.js",
   "scripts": {
