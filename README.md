@@ -23,6 +23,10 @@
 const utilities = require("dynamic-js-utilities");
 ```
 
+```
+import utilities from "dynamic-js-utilities";
+```
+
 - The structure of the utilities object:
 
 ```
